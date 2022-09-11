@@ -3,7 +3,7 @@
     <v-app-bar app
       color="white"
       elevate-on-scroll
-      scroll-target="#scrolling-techniques-7"
+            elevation="4"
     >
       <v-app-bar-nav-icon></v-app-bar-nav-icon>
 
