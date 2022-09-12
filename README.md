@@ -1,5 +1,7 @@
 # dashboard
 
+free and open source dashboard using vue and vuejs
+
 ## Project setup
 ```
 npm install
